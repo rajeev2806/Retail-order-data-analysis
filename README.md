@@ -10,7 +10,6 @@ This project explores and analyzes a retail order dataset to uncover key busines
 Retail businesses collect large volumes of transactional data. The goal of this project is to:
 - Clean and explore the retail order dataset
 - Perform exploratory data analysis (EDA)
-- Identify key sales drivers and customer trends
 - Visualize insights using Python libraries
 
 
