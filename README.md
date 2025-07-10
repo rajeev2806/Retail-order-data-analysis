@@ -17,11 +17,11 @@ Retail businesses collect large volumes of transactional data. The goal of this 
 
 ## 📊 Key Questions Explored
 
--- top 10 highest revenue generating products?
--- top 5 highest selling product in each region?
--- find month over month growth for year 2022 and 2023?
--- for each category which month has highest sale?
--- which sub category had highest growth by profit in 2023 compare to 2022?
+- top 10 highest revenue generating products?
+- top 5 highest selling product in each region?
+- find month over month growth for year 2022 and 2023?
+- for each category which month has highest sale?
+- which sub category had highest growth by profit in 2023 compare to 2022?
 
 
 
