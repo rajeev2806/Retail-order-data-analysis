@@ -96,7 +96,11 @@ from sqlalchemy import create_engine
 
 
 # PostgreSQL connection
-engine = create_engine('postgresql+psycopg2://postgres:razsql@localhost:5432/retail_orders')
+from dotenv import load_dotenv
+import os
+load_dotenv()
+engine = create_engine("postgresql+psycopg2://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}")
+
 
 # Upload DataFrame to PostgreSQL table
 df.to_sql('df_orders', con=engine, index=False, if_exists='append')     # i wont be using replace as it will set constraint to max 
