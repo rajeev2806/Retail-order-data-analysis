@@ -17,11 +17,11 @@ Retail businesses collect large volumes of transactional data. The goal of this 
 
 ## 📊 Key Questions Explored
 
-- What are the top-selling products?
-- Which regions or customers contribute the most to revenue?
-- How do sales trend over time (monthly, quarterly)?
-- What is the average delivery time?
-- Are there patterns in repeat orders or customer segments?
+-- top 10 highest revenue generating products?
+-- top 5 highest selling product in each region?
+-- find month over month growth for year 2022 and 2023?
+-- for each category which month has highest sale?
+-- which sub category had highest growth by profit in 2023 compare to 2022?
 
 
 
